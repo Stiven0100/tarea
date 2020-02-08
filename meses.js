@@ -19,6 +19,8 @@ if(mes==12 || mes==1 || mes==2) {
     console.log("mes ingresado no existe");
     document.write("mes ingresado no existe");
 }
-var nombre = " <br/><br/><br/>Stiven Giovanny Quiñonez Gonzalez<br/>20004894"
+var nombre = " <br/><br/><br/>Stiven Giovanny Quiñonez Gonzalez<br/>20004894<br/>"
 document.write(nombre);
-
+var edad = "27";
+console.log (edad);
+document.write(edad);
