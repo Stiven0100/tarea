@@ -21,4 +21,6 @@ if(mes==12 || mes==1 || mes==2) {
 }
 var nombre = " <br/><br/><br/>Stiven Giovanny Quiñonez Gonzalez<br/>20004894"
 document.write(nombre);
-
+var edad = "<br/>27<br/>";
+console.log (edad);
+document.write(edad);
